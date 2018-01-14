@@ -16,6 +16,7 @@ namespace Projeto_Git
             Console.WriteLine("\t-----------------------------------------");
             Console.WriteLine();
             Console.WriteLine("\tPrograma de teste para o repositório GIT_Versão_00.");
+            Console.WriteLine("\tPrograma de teste para o repositório GIT_Versão_01.");
             Console.ReadLine();
         }
     }
